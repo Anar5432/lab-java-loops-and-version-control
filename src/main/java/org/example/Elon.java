@@ -8,6 +8,6 @@ public class Elon {
         double equal= 2*x*x +(16*y*y)/25 - (8*x*y)/5;
         System.out.println(equal);
 
-    }
+    }0
 }
 
